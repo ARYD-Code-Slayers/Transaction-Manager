@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Transaction Manager.iml" filepath="$PROJECT_DIR$/.idea/Transaction Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FastAPI_miniproject_learning_codes.iml" filepath="$PROJECT_DIR$/.idea/FastAPI_miniproject_learning_codes.iml" />
     </modules>
   </component>
 </project>
