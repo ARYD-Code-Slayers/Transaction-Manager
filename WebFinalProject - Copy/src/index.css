@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+.BankIcon {
+  position: fixed;
+  bottom: 2px;
+  right: 2px;
+  width: 130px;
+  height: 50px;
+  font-size: 18px;
+  font-weight: 900;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 250px;
+  z-index: 1000;
+}
